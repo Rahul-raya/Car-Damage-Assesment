@@ -381,14 +381,14 @@ Just include the original license notice!
 
 ### **Need Help?**
 
-🐛 **Bug Reports**: [GitHub Issues](https://github.com/SrikarGoli/Car-Damage-Assessment/issues)  
-💡 **Feature Requests**: [GitHub Discussions](https://github.com/SrikarGoli/Car-Damage-Assessment/discussions)  
-📧 **Email**: srikargoli1@gmail.com  
-💬 **Discussions**: [GitHub Community](https://github.com/SrikarGoli/Car-Damage-Assessment/community)
+🐛 **Bug Reports**: [GitHub Issues](https://github.com/Rahul-raya/Car-Damage-Assesment/issues)  
+💡 **Feature Requests**: [GitHub Discussions](https://github.com/Rahul-raya/Car-Damage-Assesment/discussions)  
+📧 **Email**: rahulraya662005@gmail.com 
+💬 **Discussions**: [GitHub Community](https://github.com/Rahul-raya/Car-Damage-Assessment/community)
 
 ---
 
-**Made with ❤️ by [Srikar Goli](https://github.com/SrikarGoli)**
+**Made with ❤️ by [Raya Veera Venkata Naga Rahul Reddy](https://github.com/Rahul-raya)**
 
 *Transforming car damage assessment with the power of AI!*
 
