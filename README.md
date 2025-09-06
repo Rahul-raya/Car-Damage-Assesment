@@ -402,6 +402,6 @@ Just include the original license notice!
 
 ### **🎉 Ready to revolutionize car damage assessment? Let's get started!**
 
-[🚀 Quick Start](#-quick-start) • [📚 Documentation](COMPLETE_SETUP_GUIDE.md) • [🌟 Star on GitHub](https://github.com/SrikarGoli/Car-Damage-Assessment)
+[🚀 Quick Start](#-quick-start) • [📚 Documentation](COMPLETE_SETUP_GUIDE.md) • [🌟 Star on GitHub](https://github.com/Rahul-raya/Car-Damage-Assessment)
 
 </div>
