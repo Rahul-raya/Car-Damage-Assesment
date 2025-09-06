@@ -41,7 +41,7 @@
 ### ⚡ **One-Click Setup (Recommended)**
 ```bash
 # Clone and setup everything automatically
-git clone https://github.com/SrikarGoli/Car-Damage-Assessment.git
+git clone https://github.com/Rahul-raya/Car-Damage-Assesment.git
 cd Car-Damage-Assessment/CarDamageAssessment
 .\quick_start.bat
 ```
